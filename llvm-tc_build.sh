@@ -3,4 +3,3 @@
 git clone https://github.com/Kneba/vtcbuild $(pwd)/vtcbuild -b master
 cd $(pwd)/vtcbuild
 bash build-tc.sh
-
